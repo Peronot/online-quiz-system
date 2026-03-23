@@ -1,0 +1,5 @@
+backend-serve.log
+backend-serve.err.log
+frontend-dev.log
+backend/.env
+frontend/.env

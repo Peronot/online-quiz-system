@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --just-blue: #1e3a8a;
+  --just-blue-strong: #1f3f95;
+  --just-green: #1f8a4c;
+  --just-gold: #f2c200;
+  --just-white: #ffffff;
+}
+
+body {
+  margin: 0;
+  background: #f5f7fb;
+  color: #1f2937;
+}
